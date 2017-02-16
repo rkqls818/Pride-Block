@@ -1,4 +1,10 @@
 /*
+Project Title: Pride Block
+Joseph Kim
+GDES 3015-001 Wearable Computing
+OCAD University
+2017
+
  * References 
  *  Setting up RFID Reader with Arduino:  http://randomnerdtutorials.com/
  *      Modified by Rui Santos
